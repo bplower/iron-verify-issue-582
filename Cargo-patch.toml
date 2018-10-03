@@ -1,0 +1,7 @@
+[package]
+name = "iron-582-test"
+version = "0.1.0"
+authors = ["Brahm Lower <bplower@gmail.com>"]
+
+[dependencies]
+iron = { git = "https://github.com/bplower/iron" }
